@@ -14,6 +14,9 @@ Use the #stream-suggestions forum channel to suggest games and challenges!
 ## About Me
 I'm Quartzi, a passionate gamer, game developer and streamer dedicated to sharing my gaming experiences with the world. Follow me on [Twitch](https://www.twitch.tv/quartzi) to catch my live streams and join the fun!
 
+## Current On Going Game(s)
+1. [Pokemon Series](./Series/Pokemon.md)
+
 ## Get in Touch
 Have questions, comments, or just want to say hello? Feel free to reach out to me via [Twitch](https://www.twitch.tv/quartzi) or connect with me on [Discord](https://discord.gg/VnKMS676rm). I'd love to hear from you!
 
