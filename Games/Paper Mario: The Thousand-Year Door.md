@@ -16,3 +16,24 @@ Difficulty: 6   *(It was mainly the puzzles that got me... not gonna lie)*
 Replayability: 8   *(I heard there is a difficulty mod o.o)*  
 
 Please keep in mind that rating of course is a personal score and does not relate to the rating of other players.
+
+## Review
+
+### Overview
+Paper Mario: The Thousand-Year Door is a delightful RPG developed by Intelligent Systems for the Nintendo GameCube. Released in 2004, it follows the journey of Mario as he embarks on a quest to rescue Princess Peach and save the world from impending doom. What sets this game apart is its charming paper-based aesthetic, engaging turn-based combat system, and clever puzzle-solving mechanics.
+
+### Unique Features
+1. **Paper-Thin World:** The game's visual style is captivating, with characters and environments rendered in a paper-craft art style. This unique aesthetic adds a whimsical charm to the game, making it visually distinct from other RPGs.
+2. **Dynamic Combat System:** Combat in The Thousand-Year Door is turn-based but with a twist. Players must time their button presses correctly to execute powerful attacks or defend against incoming damage. The introduction of the "superguard" mechanic, with its tight timing window, adds an extra layer of strategy and excitement to battles.
+3. **Creative Puzzle Solving:** Throughout the game, players encounter various puzzles and obstacles that require creative solutions. What's interesting is that even unintended solutions can often lead to progression, allowing players to experiment and think outside the box.
+4. **Engaging Character Interactions:** The game features a diverse cast of characters, each with their own personalities and quirks. Interacting with these characters, whether it's during battles or exploring the world, adds depth to the narrative and keeps players engaged throughout their journey.
+
+### Other Enjoyers
+Paper Mario: The Thousand-Year Door appeals to a wide audience, including:
+- **Fans of the Mario franchise:** The game retains the charm and humor of the Mario series while offering a fresh RPG experience.
+- **RPG enthusiasts:** With its engaging combat mechanics, clever puzzles, and immersive world, RPG fans will find plenty to enjoy in this title.
+- **Players who enjoy unique art styles:** The paper-craft aesthetic of the game sets it apart visually and adds to its overall charm.
+- **Those who appreciate humor and lighthearted storytelling:** The game's witty dialogue and comedic moments make it a joy to experience for players of all ages.
+
+### Conclusion
+Paper Mario: The Thousand-Year Door is a gem of a game that combines engaging gameplay mechanics with a charming visual style and a witty narrative. Whether you're a longtime fan of the Mario series or simply looking for a fun and memorable RPG experience, this game is sure to delight and entertain. With its unique features and timeless appeal, it's no wonder that it continues to be beloved by players even years after its release.
