@@ -1,4 +1,4 @@
-# Game Progress Notes 🎮
+# Game Journal 🎮
 Welcome to my Game Progress Notes repository! This is where I document my gaming journey, sharing my progress, completion times, and thoughts on the games I've played. Whether you're a fellow gamer, a member of my community, or just curious about my gaming adventures, you're in the right place!
 
 ## How It Works
